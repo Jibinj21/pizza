@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cart-img {
+  background: #fe5f1e;
+}
+
+.cart-img:hover {
+  background: #b23301;
+  transition: ease-in, 3s;
+}
+
+li a:hover {
+  color: #fe5f1e;
+}
+
+.btn-primary {
+  background: #fe5f1e;
+}
+.btn-primary:hover {
+  background: #b23301;
+  transition: ease-out, 3s;
+}
+.btn-primary:focus {
+  outline: none;
+}
